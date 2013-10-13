@@ -1,0 +1,8 @@
+module FeedNotifier
+    def self.run
+        puts "run:"
+        config = FeedNotifier::Config.new
+        puts "#{config.feed_url}"
+    end
+end
+FeedNotifier.run
