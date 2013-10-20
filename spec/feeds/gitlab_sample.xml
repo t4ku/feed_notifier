@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <title>Dashboard feed - John Smith</title>
+  <link href="http://demo.gitlab.com/dashboard.atom" rel="self" type="application/atom+xml"/>
+  <link href="http://demo.gitlab.com/dashboard" rel="alternate" type="text/html"/>
+  <id>http://demo.gitlab.com/projects</id>
+  <updated>2013-10-06T18:42:51Z</updated>
+  <entry>
+    <id>tag:demo.gitlab.com,2013-10-06:8139</id>
+    <link href="http://demo.gitlab.com/sandbox/charts-js/commit/91b1cf467c8e6a00e12ce379597707b672d3cf8a"/>
+    <title>John Smith pushed to branch master at Sandbox / Charts.js</title>
+    <updated>2013-10-06T18:42:51Z</updated>
+    <media:thumbnail width="40" height="40" url="http://www.gravatar.com/avatar/b642b4217b34b1e8d3bd915fc65c4452?s=40&amp;d=mm"/>
+    <author>
+      <name>John Smith</name>
+      <email>test@test.com</email>
+    </author>
+    <summary type="xhtml">
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>
+<strong>John Smith</strong>
+<a href="/sandbox/charts-js/commit/91b1cf467c8e6a00e12ce379597707b672d3cf8a">(#91b1cf46)</a>
+<i>
+at
+19 Aug 18:37
+</i>
+</p>
+<blockquote><p>wanted to try a harmless commit in test site</p></blockquote>
+</div>
+    </summary>
+  </entry>
+  <entry>
+    <id>tag:demo.gitlab.com,2013-10-06:8138</id>
+    <link href="http://demo.gitlab.com/gitlab/gitlab-recipes/commit/68a3d6b38d720593247202ee5165e41aa84314f5"/>
+    <title>John Smith pushed to branch master at GitLab / gitlab-recipes</title>
+    <updated>2013-10-06T18:42:48Z</updated>
+    <media:thumbnail width="40" height="40" url="http://www.gravatar.com/avatar/b642b4217b34b1e8d3bd915fc65c4452?s=40&amp;d=mm"/>
+    <author>
+      <name>John Smith</name>
+      <email>test@test.com</email>
+    </author>
+    <summary type="xhtml">
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>
+<strong>John Smith</strong>
+<a href="/gitlab/gitlab-recipes/commit/68a3d6b38d720593247202ee5165e41aa84314f5">(#68a3d6b3)</a>
+<i>
+at
+19 Aug 20:56
+</i>
+</p>
+<blockquote><p>Foo</p></blockquote>
+</div>
+    </summary>
+  </entry>
+  <entry>
+    <id>tag:demo.gitlab.com,2013-10-06:8135</id>
+    <link href="http://demo.gitlab.com/sandbox/charts-js/commit/0c580616e4e76e081a6ce0246128757477d91d9e"/>
+    <title>John Smith pushed to branch master at Sandbox / Charts.js</title>
+    <updated>2013-10-06T18:42:47Z</updated>
+    <media:thumbnail width="40" height="40" url="http://www.gravatar.com/avatar/b642b4217b34b1e8d3bd915fc65c4452?s=40&amp;d=mm"/>
+    <author>
+      <name>John Smith</name>
+      <email>test@test.com</email>
+    </author>
+    <summary type="xhtml">
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>
+<strong>John Smith</strong>
+<a href="/sandbox/charts-js/commit/0c580616e4e76e081a6ce0246128757477d91d9e">(#0c580616)</a>
+<i>
+at
+26 Aug 10:08
+</i>
+</p>
+<blockquote><p>Arial -&gt; Helvetica</p></blockquote>
+</div>
+    </summary>
+  </entry>
+  <entry>
+    <id>tag:demo.gitlab.com,2013-10-06:8136</id>
+    <link href="http://demo.gitlab.com/sandbox/charts-js/commit/a8404cfb0bde2087f38e475d787c85be3588bb56"/>
+    <title>John Smith pushed to branch master at Sandbox / Charts.js</title>
+    <updated>2013-10-06T18:42:47Z</updated>
+    <media:thumbnail width="40" height="40" url="http://www.gravatar.com/avatar/b642b4217b34b1e8d3bd915fc65c4452?s=40&amp;d=mm"/>
+    <author>
+      <name>John Smith</name>
+      <email>test@test.com</email>
+    </author>
+    <summary type="xhtml">
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>
+<strong>John Smith</strong>
+<a href="/sandbox/charts-js/commit/a8404cfb0bde2087f38e475d787c85be3588bb56">(#a8404cfb)</a>
+<i>
+at
+26 Aug 03:57
+</i>
+</p>
+<blockquote><p>test commit</p></blockquote>
+</div>
+    </summary>
+  </entry>
+  <entry>
+    <id>tag:demo.gitlab.com,2013-10-06:8137</id>
+    <link href="http://demo.gitlab.com/sandbox/charts-js/commit/0101d8a9559a72aa04da42fb70ef66ceb362152b"/>
+    <title>John Smith pushed to branch master at Sandbox / Charts.js</title>
+    <updated>2013-10-06T18:42:47Z</updated>
+    <media:thumbnail width="40" height="40" url="http://www.gravatar.com/avatar/b642b4217b34b1e8d3bd915fc65c4452?s=40&amp;d=mm"/>
+    <author>
+      <name>John Smith</name>
+      <email>test@test.com</email>
+    </author>
+    <summary type="xhtml">
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>
+<strong>John Smith</strong>
+<a href="/sandbox/charts-js/commit/0101d8a9559a72aa04da42fb70ef66ceb362152b">(#0101d8a9)</a>
+<i>
+at
+20 Aug 01:57
+</i>
+</p>
+<blockquote><p>Update</p></blockquote>
+</div>
+    </summary>
+  </entry>
+  <entry>
+    <id>tag:demo.gitlab.com,2013-10-06:8134</id>
+    <link href="http://demo.gitlab.com/gitlab/gitlabhq/commit/5c2ce1f7a81b4aae0f15ad7361792b734ea511ee"/>
+    <title>John Smith pushed to branch ubuntu_script at GitLab / gitlabhq</title>
+    <updated>2013-10-06T18:42:42Z</updated>
+    <media:thumbnail width="40" height="40" url="http://www.gravatar.com/avatar/b642b4217b34b1e8d3bd915fc65c4452?s=40&amp;d=mm"/>
+    <author>
+      <name>John Smith</name>
+      <email>test@test.com</email>
+    </author>
+    <summary type="xhtml">
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>
+<strong>John Smith</strong>
+<a href="/gitlab/gitlabhq/commit/5c2ce1f7a81b4aae0f15ad7361792b734ea511ee">(#5c2ce1f7)</a>
+<i>
+at
+27 Aug 08:15
+</i>
+</p>
+<blockquote><p>Update.</p></blockquote>
+</div>
+    </summary>
+  </entry>
+  <entry>
+    <id>tag:demo.gitlab.com,2013-10-06:8133</id>
+    <link href="http://demo.gitlab.com/sandbox/six/compare/f10092ccfa5166ca5d6bd9ae5ec043744ac9d501...5865af02a07e988c23ab982e3f79d5f33fa7f1ab"/>
+    <title>John Smith pushed to branch gh-pages at Sandbox / Six</title>
+    <updated>2013-10-06T18:42:40Z</updated>
+    <media:thumbnail width="40" height="40" url="http://www.gravatar.com/avatar/b642b4217b34b1e8d3bd915fc65c4452?s=40&amp;d=mm"/>
+    <author>
+      <name>John Smith</name>
+      <email>test@test.com</email>
+    </author>
+    <summary type="xhtml">
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>
+<strong>John Smith</strong>
+<a href="/sandbox/six/commit/5865af02a07e988c23ab982e3f79d5f33fa7f1ab">(#5865af02)</a>
+<i>
+at
+30 Aug 07:42
+</i>
+</p>
+<blockquote><p>Merge branch 'master' of /home/git/repositories/sandbox/six into gh-pages</p></blockquote>
+<p>
+<strong>John Smith</strong>
+<a href="/sandbox/six/commit/0ffcf42643170cf96181338374116ac7aa4a0c73">(#0ffcf426)</a>
+<i>
+at
+28 Aug 10:26
+</i>
+</p>
+<blockquote><p>adasd</p></blockquote>
+<p>
+<strong>John Smith</strong>
+<a href="/sandbox/six/commit/0072c64fb93d378aff5f359e49349b86256e1417">(#0072c64f)</a>
+<i>
+at
+23 Aug 08:17
+</i>
+</p>
+<blockquote><p>test edit. I hope this is a real sandbox only...</p></blockquote>
+<p>
+<strong>John Smith</strong>
+<a href="/sandbox/six/commit/7c7fdef05e39e3d8315e0e295ab69f5383a12c85">(#7c7fdef0)</a>
+<i>
+at
+12 Aug 17:32
+</i>
+</p>
+<blockquote><p>#747 removed blah</p></blockquote>
+<p>
+<strong>John Smith</strong>
+<a href="/sandbox/six/commit/5cb907acc3a4f9350a5661db1c9bcce926549dea">(#5cb907ac)</a>
+<i>
+at
+12 Aug 13:45
+</i>
+</p>
+<blockquote><p>#747</p></blockquote>
+<p>
+<strong>John Smith</strong>
+<a href="/sandbox/six/commit/aa1cda5a93d4bdc07300601600014bcd7f99da5f">(#aa1cda5a)</a>
+<i>
+at
+06 Aug 08:41
+</i>
+</p>
+<blockquote><p>Lets</p></blockquote>
+<p>
+<strong>John Smith</strong>
+<a href="/sandbox/six/commit/8c881aeb05d29ed3a19cacda95843bfc3816a8a6">(#8c881aeb)</a>
+<i>
+at
+04 Aug 01:43
+</i>
+</p>
+<blockquote><p>Merge branch 'gh-pages' of /home/git/repositories/sandbox/six</p></blockquote>
+<p>
+<strong>Dmitriy Zaporozhets</strong>
+<a href="/sandbox/six/commit/2e008a711430a16092cd6a20c225807cb3f51db7">(#2e008a71)</a>
+<i>
+at
+22 May 11:14
+</i>
+</p>
+<blockquote><p>Added codeclimate badge</p></blockquote>
+<p>
+<strong>Dmitriy Zaporozhets</strong>
+<a href="/sandbox/six/commit/1c8a9df454ef68c22c2a33cca8232bb50849e5c5">(#1c8a9df4)</a>
+<i>
+at
+24 Feb 11:58
+</i>
+</p>
+<blockquote><p>Merge pull request #4 from paritoshparitosh57/master</p>
+
+<p>corrected spelling/typo on README.markdown</p></blockquote>
+<p>
+<strong>Paritosh Piplewar</strong>
+<a href="/sandbox/six/commit/294dc12591e7103f68b8ca9da14633c439d2dcb5">(#294dc125)</a>
+<i>
+at
+24 Feb 08:15
+</i>
+</p>
+<blockquote><p>typo : correct 'bok' to 'book'</p></blockquote>
+<p>
+<strong>Dmitriy Zaporozhets</strong>
+<a href="/sandbox/six/commit/a26f8df380e56dc79cd74087c8ed4f031eef0460">(#a26f8df3)</a>
+<i>
+at
+13 Sep 10:13
+</i>
+</p>
+<blockquote><p>Updated gems. Added Guard</p></blockquote>
+<p>
+<strong>Dmitriy Zaporozhets</strong>
+<a href="/sandbox/six/commit/680d739923abdc78762dda5587f3ce6c59caedc2">(#680d7399)</a>
+<i>
+at
+13 Nov 07:35
+</i>
+</p>
+<blockquote><p>Merge pull request #3 from jish/readme</p>
+
+<p>Updating readme.</p></blockquote>
+<p>
+<strong>Josh Lubaway</strong>
+<a href="/sandbox/six/commit/e007035b36c0c0227ec66d945b0e82ea4138691a">(#e007035b)</a>
+<i>
+at
+12 Nov 23:48
+</i>
+</p>
+<blockquote><p>Updating readme.</p></blockquote>
+<p>
+<strong>Dmitriy Zaporozhets</strong>
+<a href="/sandbox/six/commit/0a38237187aeaf6e24350ffb0db79da40c1bb8de">(#0a382371)</a>
+<i>
+at
+04 Oct 10:08
+</i>
+</p>
+<blockquote><p>Edited README.markdown via GitHub</p></blockquote>
+<p>
+<strong>Dmitriy Zaporozhets</strong>
+<a href="/sandbox/six/commit/07f358d6a978c99c58a8931a23e3ff63b5a7abd9">(#07f358d6)</a>
+<i>
+at
+04 Oct 10:08
+</i>
+</p>
+<blockquote><p>travis.yml</p></blockquote>
+<p>
+<i>
+... and
+32 more commits
+</i>
+</p>
+</div>
+    </summary>
+  </entry>
+  <entry>
+    <id>tag:demo.gitlab.com,2013-10-06:8132</id>
+    <link href="http://demo.gitlab.com/gitlab/gitlabhq/commit/7a0af14620076516e06beea4959d827fe1bfc217"/>
+    <title>John Smith pushed to branch ubuntu_script at GitLab / gitlabhq</title>
+    <updated>2013-10-06T18:42:39Z</updated>
+    <media:thumbnail width="40" height="40" url="http://www.gravatar.com/avatar/b642b4217b34b1e8d3bd915fc65c4452?s=40&amp;d=mm"/>
+    <author>
+      <name>John Smith</name>
+      <email>test@test.com</email>
+    </author>
+    <summary type="xhtml">
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>
+<strong>John Smith</strong>
+<a href="/gitlab/gitlabhq/commit/7a0af14620076516e06beea4959d827fe1bfc217">(#7a0af146)</a>
+<i>
+at
+29 Aug 22:18
+</i>
+</p>
+<blockquote><p>Remove assignee from api</p></blockquote>
+</div>
+    </summary>
+  </entry>
+  <entry>
+    <id>tag:demo.gitlab.com,2013-10-06:8130</id>
+    <link href="http://demo.gitlab.com/gitlab/gitlab-ci/compare/bb97f5dbd2d52d1bff6b28d97bd348f21531dea7...488cb21c0dd5a99d9a00a654363a51c705159d04"/>
+    <title>John Smith pushed to branch master at GitLab / gitlab-ci</title>
+    <updated>2013-10-06T18:42:38Z</updated>
+    <media:thumbnail width="40" height="40" url="http://www.gravatar.com/avatar/b642b4217b34b1e8d3bd915fc65c4452?s=40&amp;d=mm"/>
+    <author>
+      <name>John Smith</name>
+      <email>test@test.com</email>
+    </author>
+    <summary type="xhtml">
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>
+<strong>John Smith</strong>
+<a href="/gitlab/gitlab-ci/commit/488cb21c0dd5a99d9a00a654363a51c705159d04">(#488cb21c)</a>
+<i>
+at
+30 Aug 16:46
+</i>
+</p>
+<blockquote><p>Merge branch 'gh-pages' of /home/git/repositories/gitlab/gitlab-ci</p></blockquote>
+<p>
+<strong>John Smith</strong>
+<a href="/gitlab/gitlab-ci/commit/b5230af1a8222294c6d8e4028eeee5044d5722ac">(#b5230af1)</a>
+<i>
+at
+29 Aug 19:18
+</i>
+</p>
+<blockquote><p>Testing!</p></blockquote>
+</div>
+    </summary>
+  </entry>
+  <entry>
+    <id>tag:demo.gitlab.com,2013-10-06:8131</id>
+    <link href="http://demo.gitlab.com/sandbox/six/commit/68dafe968a11e0b6dbb4a4c1c4e00b7703efcf0a"/>
+    <title>John Smith pushed to branch master at Sandbox / Six</title>
+    <updated>2013-10-06T18:42:38Z</updated>
+    <media:thumbnail width="40" height="40" url="http://www.gravatar.com/avatar/b642b4217b34b1e8d3bd915fc65c4452?s=40&amp;d=mm"/>
+    <author>
+      <name>John Smith</name>
+      <email>test@test.com</email>
+    </author>
+    <summary type="xhtml">
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>
+<strong>John Smith</strong>
+<a href="/sandbox/six/commit/68dafe968a11e0b6dbb4a4c1c4e00b7703efcf0a">(#68dafe96)</a>
+<i>
+at
+30 Aug 14:12
+</i>
+</p>
+<blockquote><p>Me lo han pedido en el ticket #35</p></blockquote>
+</div>
+    </summary>
+  </entry>
+  <entry>
+    <id>tag:demo.gitlab.com,2013-10-06:8126</id>
+    <link href="http://demo.gitlab.com/gitlab/gitlabhq/commit/2ec71a0c09e980c29ee2ba50c5fc5ba91c3d08f3"/>
+    <title>John Smith pushed to branch ubuntu_script at GitLab / gitlabhq</title>
+    <updated>2013-10-06T18:42:37Z</updated>
+    <media:thumbnail width="40" height="40" url="http://www.gravatar.com/avatar/b642b4217b34b1e8d3bd915fc65c4452?s=40&amp;d=mm"/>
+    <author>
+      <name>John Smith</name>
+      <email>test@test.com</email>
+    </author>
+    <summary type="xhtml">
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>
+<strong>John Smith</strong>
+<a href="/gitlab/gitlabhq/commit/2ec71a0c09e980c29ee2ba50c5fc5ba91c3d08f3">(#2ec71a0c)</a>
+<i>
+at
+03 Sep 12:37
+</i>
+</p>
+<blockquote><p>.</p></blockquote>
+</div>
+    </summary>
+  </entry>
+  <entry>
+    <id>tag:demo.gitlab.com,2013-10-06:8127</id>
+    <link href="http://demo.gitlab.com/sandbox/charts-js/commit/503a3b7a83dc434217eaa0a61bce528571784159"/>
+    <title>John Smith pushed to branch master at Sandbox / Charts.js</title>
+    <updated>2013-10-06T18:42:37Z</updated>
+    <media:thumbnail width="40" height="40" url="http://www.gravatar.com/avatar/b642b4217b34b1e8d3bd915fc65c4452?s=40&amp;d=mm"/>
+    <author>
+      <name>John Smith</name>
+      <email>test@test.com</email>
+    </author>
+    <summary type="xhtml">
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>
+<strong>John Smith</strong>
+<a href="/sandbox/charts-js/commit/503a3b7a83dc434217eaa0a61bce528571784159">(#503a3b7a)</a>
+<i>
+at
+03 Sep 11:02
+</i>
+</p>
+<blockquote><p>a</p></blockquote>
+</div>
+    </summary>
+  </entry>
+  <entry>
+    <id>tag:demo.gitlab.com,2013-10-06:8128</id>
+    <link href="http://demo.gitlab.com/gitlab/gitlabhq/commit/ac1ef9f53e4e8aded71dbc01754e999a5fc9372a"/>
+    <title>John Smith pushed to branch ubuntu_script at GitLab / gitlabhq</title>
+    <updated>2013-10-06T18:42:37Z</updated>
+    <media:thumbnail width="40" height="40" url="http://www.gravatar.com/avatar/b642b4217b34b1e8d3bd915fc65c4452?s=40&amp;d=mm"/>
+    <author>
+      <name>John Smith</name>
+      <email>test@test.com</email>
+    </author>
+    <summary type="xhtml">
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>
+<strong>John Smith</strong>
+<a href="/gitlab/gitlabhq/commit/ac1ef9f53e4e8aded71dbc01754e999a5fc9372a">(#ac1ef9f5)</a>
+<i>
+at
+03 Sep 00:29
+</i>
+</p>
+<blockquote><p>test</p></blockquote>
+</div>
+    </summary>
+  </entry>
+  <entry>
+    <id>tag:demo.gitlab.com,2013-10-06:8129</id>
+    <link href="http://demo.gitlab.com/sandbox/charts-js/commit/51cb6fdb3dc6606bda6eca3ed15682096d404982"/>
+    <title>John Smith pushed to branch master at Sandbox / Charts.js</title>
+    <updated>2013-10-06T18:42:37Z</updated>
+    <media:thumbnail width="40" height="40" url="http://www.gravatar.com/avatar/b642b4217b34b1e8d3bd915fc65c4452?s=40&amp;d=mm"/>
+    <author>
+      <name>John Smith</name>
+      <email>test@test.com</email>
+    </author>
+    <summary type="xhtml">
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>
+<strong>John Smith</strong>
+<a href="/sandbox/charts-js/commit/51cb6fdb3dc6606bda6eca3ed15682096d404982">(#51cb6fdb)</a>
+<i>
+at
+03 Sep 10:18
+</i>
+</p>
+<blockquote><p>ertwertw</p></blockquote>
+</div>
+    </summary>
+  </entry>
+  <entry>
+    <id>tag:demo.gitlab.com,2013-10-06:8125</id>
+    <link href="http://demo.gitlab.com/sandbox/charts-js/commit/ff90b081df442318f9ab560a5efcc5a2293f8528"/>
+    <title>John Smith pushed to branch master at Sandbox / Charts.js</title>
+    <updated>2013-10-06T18:42:34Z</updated>
+    <media:thumbnail width="40" height="40" url="http://www.gravatar.com/avatar/b642b4217b34b1e8d3bd915fc65c4452?s=40&amp;d=mm"/>
+    <author>
+      <name>John Smith</name>
+      <email>test@test.com</email>
+    </author>
+    <summary type="xhtml">
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>
+<strong>John Smith</strong>
+<a href="/sandbox/charts-js/commit/ff90b081df442318f9ab560a5efcc5a2293f8528">(#ff90b081)</a>
+<i>
+at
+03 Sep 20:03
+</i>
+</p>
+<blockquote><p>test</p></blockquote>
+</div>
+    </summary>
+  </entry>
+  <entry>
+    <id>tag:demo.gitlab.com,2013-10-06:8124</id>
+    <link href="http://demo.gitlab.com/sandbox/six/commit/e9e851fbbea5027846ccfd3b000436c3f0ddff7c"/>
+    <title>John Smith pushed to branch master at Sandbox / Six</title>
+    <updated>2013-10-06T18:42:33Z</updated>
+    <media:thumbnail width="40" height="40" url="http://www.gravatar.com/avatar/b642b4217b34b1e8d3bd915fc65c4452?s=40&amp;d=mm"/>
+    <author>
+      <name>John Smith</name>
+      <email>test@test.com</email>
+    </author>
+    <summary type="xhtml">
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>
+<strong>John Smith</strong>
+<a href="/sandbox/six/commit/e9e851fbbea5027846ccfd3b000436c3f0ddff7c">(#e9e851fb)</a>
+<i>
+at
+09 Sep 13:44
+</i>
+</p>
+<blockquote><p>toto</p></blockquote>
+</div>
+    </summary>
+  </entry>
+  <entry>
+    <id>tag:demo.gitlab.com,2013-10-06:8123</id>
+    <link href="http://demo.gitlab.com/sandbox/charts-js/commit/b7c4c97ec111733f27e9b7e493ee2c4b6b8e8c20"/>
+    <title>John Smith pushed to branch master at Sandbox / Charts.js</title>
+    <updated>2013-10-06T18:42:32Z</updated>
+    <media:thumbnail width="40" height="40" url="http://www.gravatar.com/avatar/b642b4217b34b1e8d3bd915fc65c4452?s=40&amp;d=mm"/>
+    <author>
+      <name>John Smith</name>
+      <email>test@test.com</email>
+    </author>
+    <summary type="xhtml">
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>
+<strong>John Smith</strong>
+<a href="/sandbox/charts-js/commit/b7c4c97ec111733f27e9b7e493ee2c4b6b8e8c20">(#b7c4c97e)</a>
+<i>
+at
+10 Sep 08:54
+</i>
+</p>
+<blockquote><p>s</p></blockquote>
+</div>
+    </summary>
+  </entry>
+  <entry>
+    <id>tag:demo.gitlab.com,2013-10-06:8122</id>
+    <link href="http://demo.gitlab.com/gitlab/gitlabhq/commit/70fb4d1ef412783236e2bed1f59d1c58b5664acf"/>
+    <title>John Smith pushed to branch ubuntu_script at GitLab / gitlabhq</title>
+    <updated>2013-10-06T18:42:30Z</updated>
+    <media:thumbnail width="40" height="40" url="http://www.gravatar.com/avatar/b642b4217b34b1e8d3bd915fc65c4452?s=40&amp;d=mm"/>
+    <author>
+      <name>John Smith</name>
+      <email>test@test.com</email>
+    </author>
+    <summary type="xhtml">
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>
+<strong>John Smith</strong>
+<a href="/gitlab/gitlabhq/commit/70fb4d1ef412783236e2bed1f59d1c58b5664acf">(#70fb4d1e)</a>
+<i>
+at
+10 Sep 17:52
+</i>
+</p>
+<blockquote><p>Commit via built in editor.</p></blockquote>
+</div>
+    </summary>
+  </entry>
+  <entry>
+    <id>tag:demo.gitlab.com,2013-10-06:8120</id>
+    <link href="http://demo.gitlab.com/sandbox/charts-js/commit/b5520bbf32ddf10f00677e19c683a2bf70a5e46d"/>
+    <title>John Smith pushed to branch master at Sandbox / Charts.js</title>
+    <updated>2013-10-06T18:42:29Z</updated>
+    <media:thumbnail width="40" height="40" url="http://www.gravatar.com/avatar/b642b4217b34b1e8d3bd915fc65c4452?s=40&amp;d=mm"/>
+    <author>
+      <name>John Smith</name>
+      <email>test@test.com</email>
+    </author>
+    <summary type="xhtml">
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>
+<strong>John Smith</strong>
+<a href="/sandbox/charts-js/commit/b5520bbf32ddf10f00677e19c683a2bf70a5e46d">(#b5520bbf)</a>
+<i>
+at
+18 Sep 01:31
+</i>
+</p>
+<blockquote><p>Squee</p></blockquote>
+</div>
+    </summary>
+  </entry>
+  <entry>
+    <id>tag:demo.gitlab.com,2013-10-06:8121</id>
+    <link href="http://demo.gitlab.com/sandbox/charts-js/commit/7b9163d83ed8311c1a9308844fd32e81a58464a9"/>
+    <title>John Smith pushed to branch master at Sandbox / Charts.js</title>
+    <updated>2013-10-06T18:42:29Z</updated>
+    <media:thumbnail width="40" height="40" url="http://www.gravatar.com/avatar/b642b4217b34b1e8d3bd915fc65c4452?s=40&amp;d=mm"/>
+    <author>
+      <name>John Smith</name>
+      <email>test@test.com</email>
+    </author>
+    <summary type="xhtml">
+<div xmlns='http://www.w3.org/1999/xhtml'>
+<p>
+<strong>John Smith</strong>
+<a href="/sandbox/charts-js/commit/7b9163d83ed8311c1a9308844fd32e81a58464a9">(#7b9163d8)</a>
+<i>
+at
+10 Sep 10:03
+</i>
+</p>
+<blockquote><p>Updated copyright for next year.</p></blockquote>
+</div>
+    </summary>
+  </entry>
+</feed>

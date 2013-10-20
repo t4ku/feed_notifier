@@ -1,6 +1,6 @@
 # FeedNotifier
 
-TODO: Write a gem description
+Ruby scripts to notify feed updates via Apple's Notification Center
 
 ## Installation
 
@@ -18,7 +18,27 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+First, create config script like shown below.
+
+```
+FeedNotifier.configure do |config|
+  # fetch interval
+  config.interval = 60*1  # fetch every minute
+
+  # feed urls
+  config.feed_urls << 'https://news.google.com/news/feeds?hl=us&ned=us&ie=UTF-8&oe=UTF-8&output=rss'
+end
+```
+
+Once the configuration is done, run command with -f option.
+
+```
+(bundle exec) feed_notifier -f feeds.rb
+```
+
+## Todo
+
+* Option to run as daemon
 
 ## Contributing
 

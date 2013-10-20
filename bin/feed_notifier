@@ -1,8 +1,32 @@
-module FeedNotifier
-    def self.run
-        puts "run:"
-        config = FeedNotifier::Config.new
-        puts "#{config.feed_url}"
-    end
+require 'optparse'
+require 'feed_notifier'
+
+run_config = {
+ :daemon => false,
+ :pid_dir => '/var/run',
+}
+
+opt_parse = OptionParser.new do |opts|
+  opts.on("-f", "--file file"  , "config file")  do |file|
+    run_config[:config_path] = file 
+  end
+
+  opts.on("-d", "--daemon", "run as daemon") do
+    run_config[:daemon] = true
+  end
 end
-FeedNotifier.run
+
+begin
+  opt_parse.parse!
+  unless run_config[:config_path]
+    puts "Missing option: -f "
+    puts opt_parse
+    exit
+  end
+rescue OptionParser::InvalidOption, OptionParser::MissingArgument
+  puts $!.to_s
+  puts opt_parse
+  exit
+end
+
+FeedNotifier::Runner.new(run_config).run
